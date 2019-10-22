@@ -12,7 +12,7 @@ You are on a walk with your dog. All of a sudden, a man dressed in all black kno
 | Erik Sampayo | esampayo3 | eriksampayo@gatech.edu |
 
 ## Installation
-Clone this repository using ```git clone https://github.gatech.edu/kscharm3/nothing_BASIC.git``` and open the project with the Unity 3D editor (Note: it may take a while to import assets and compile scripts).
+Clone this repository using ```git clone https://github.com/MegaManBK7/AWalkOn31st.git``` and open the project with the Unity 3D editor (Note: it may take a while to import assets and compile scripts).
 
 ## Run the Game
 To run the game, navigate to ```nothing_BASIC/Builds``` and run ```Walk_on_31st.exe```. 
